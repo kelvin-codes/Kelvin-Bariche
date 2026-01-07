@@ -1,8 +1,8 @@
 # Kelvin Bariche
 
-** Location:** Accra, Ghana  
-** Email:** kelvinbariche@gmail.com  
-** Title:** Product Designer → Software Engineer (Front-end)  
+*Location:*  Accra, Ghana  
+*Email:*  kelvinbariche@gmail.com  
+*Title:*  Product Designer → Software Engineer (Front-end)  
 
 
 ---
